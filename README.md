@@ -2,7 +2,7 @@
 A repository for the complete CDS testing UML profile referred in MODELS conference paper titled "A Model-based Testing Approach for Cockpit Display Systems of Avionics".
 
 
-# Reference
+# Paper Reference
 ```
 Iqbal, Muhammad Zohaib, Hassan Sartaj, Muhammad Uzair Khan, Fitash Ul Haq, and Ifrah Qaisar. "A Model-
 Based Testing Approach for Cockpit Display Systems of Avionics." In 2019 ACM/IEEE 22nd International 
